@@ -76,5 +76,4 @@ This project demonstrates low-level network programming, socket management, and 
 ## 👩‍💻 Author
 
 Ada Şevval Sarı
-# TCP-Proxy-Server
-Multi-threaded TCP proxy server in C with HTTP forwarding, HTTPS tunneling, and performance metrics.
+
